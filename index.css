@@ -393,6 +393,9 @@
     margin: 0 0 5px;
   }
   
+  .main-product:hover{
+      box-shadow: 0 0 4px #ccc;
+  }
   .content-product .content-product-deltals {
     display: flex;
     justify-content: center;
