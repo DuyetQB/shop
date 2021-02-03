@@ -12,10 +12,13 @@
         width: 100%;
         display: flex;
         padding: 0;
+        background: #fff;
+        z-index: 100;
     }
 
     .nav-mobile {
         display: flex;
+        color:#f111c0;
     }
 
     .img-nav {
